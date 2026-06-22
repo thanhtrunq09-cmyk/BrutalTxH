@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "releaseNotes": "Cập nhật phiên bản mới.\n- Cải thiện Auto Update\n- Kiểm tra SHA256 trước khi cập nhật",
+  "downloadUrl": "https://github.com/thanhtrunq09-cmyk/BrutalTxH/releases/download/v1.0.1/TxHBrutal.exe",
+  "sha256": "0090761398F07B0672C200765B03DFB6D24A7CE55B9CC7A05CC2B852FA114D2B"
+}
